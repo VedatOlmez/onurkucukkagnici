@@ -823,13 +823,21 @@ Tedavinin başarısı hastanın iyileşme potansiyeli, sigara kullanımı, ağı
       </>
     ),
   },
+  {
+    title: 'Konya’da İmplant Tedavisi ve Konya İmplant Fiyatları',
+    content: () => (
+      <>
+       İmplant Konya, Konya İmplant, Konya İmplant Fiyatları, İmplant Fiyatları Konya, İmplant Diş Fiyatları Konya, Diş İmplant Fiyatları Konya, İmplant Diş Yapımı Fiyatları Konya, İmplant Fiyatları 2020 Tekdiş Konya, Tek Diş İmplant Fiyatları 2020 Konya, Konya İmplant Diş Hekimi, İmplant Diş Fiyatları 2020 Konya, İsviçre İmplant Fiyatları, Vidalı Diş Fiyatları Konya, İmplant Fiyatları 2020 Konya, Konya İmplant Diş Fiyatları, Vidalı Diş Yapımı Fiyatları Konya, Vidalı Diş Fiyatları 2020 Konya, Bir İmplant Diş Kaç Para, En İyi İmplant Konya, Vidalı Diş Kaç Para, İmplant Köprü Diş Fiyatları Konya, Alt Çene İmplant Fiyatları Konya, İsviçre İmplant Fiyatı
+      </>
+    ),
+  },
 
 ];
 
 const Faq = () => (
   <Section id="blog">
     <Container>
-      <h1 style={{ marginBottom: 40 }}>İmplant Tedavisi Hakkında Sık Sorulan</h1>
+      <h1 style={{ marginBottom: 40 }}>Konya İmplant, Konya İmplant Tedavisi ve Konya İmplant Fiyatları Hakkında Bilgiler</h1>
       <div>
         {FAQS.map(({ title, content }) => (
           <FaqItem title={title} key={title}>

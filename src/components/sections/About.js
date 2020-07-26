@@ -73,6 +73,10 @@ const About = () => (
               <p>
               Tekirdağ ili Hayrabolu ilçesinde vatani görevini yerine getirdikten sonra İstanbul’da bir çok klinikte hasta kabul etmiştir. Bu süreçte hem yurt içinde hem de yurt dışında implantoloji, estetik diş hekimliği, diş hekimliğinde yumuşak doku lazer uygulamaları, diş hekimliğinde tam seramik uygulamaları üzerine eğitimler almıştır. 2017 yılında memleketi Konya’ya taşınarak Meram Yeniyol caddesinde  hizmet vermeye başlamıştır.
               </p>
+              <br></br>
+              <p>
+              Konya implant, Konya implant tedavisi ve Konya implant fiyatları konusunda hazırladığımız blog sayfamızı okuyabilirsiniz.
+              </p>
             </div>
             <Art>
               <Img fluid={data.art_ideas.childImageSharp.fluid} />
