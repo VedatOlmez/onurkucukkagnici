@@ -7,6 +7,7 @@ module.exports = {
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
         trackingId: "UA-121912050-3",
+        head: true,
       },
     },
     `gatsby-plugin-react-helmet`,
