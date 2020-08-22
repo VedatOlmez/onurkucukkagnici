@@ -1,17 +1,21 @@
 import React from 'react';
-import { Link } from 'gatsby';
 
 import Layout from '@common/Layout';
-import { Container } from '@components/global';
+import Navbar from '@common/Navbar';
 
-const SecondPage = () => (
+import Header from '@sections/Header';
+import About from '@sections/About';
+import Faq from '@sections/Faq';
+import Footer from '@sections/Footer';
+
+const IndexPage = () => (
   <Layout>
-    <Container>
-      <h1>Hi from the second page</h1>
-      <p>Welcome to page 2</p>
-      <Link to="/">Go back to the homepage</Link>
-    </Container>
+    <Navbar />
+    <Header />
+    <About />
+    <Faq />
+    <Footer />
   </Layout>
 );
 
-export default SecondPage;
+export default IndexPage;
