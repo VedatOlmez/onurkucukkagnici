@@ -35,23 +35,10 @@ const Footer = () => (
       <React.Fragment>
         <FooterWrapper>
           <StyledContainer>
-            <Copyright>
+              <Copyright>
               <h2>İLETİŞİM</h2>
               <div>
-                <p>
-                  <b>Adres</b>
-                  <br></br>
-                  Yeni Meram Cad. No: 33A
-                  <br></br>
-                  Meram, Konya
-                  <br></br>
-                  <br></br>
-                  <b>Telefon</b>
-                  <br></br>
-                  0(332) 320 04 04
-                  <br></br>
-                  0(544) 233 01 77
-                </p>
+               <p><b>Adres&nbsp;</b><br />Yeni Meram Cad. No: 33A<br />Meram, Konya<br /><br /><b>Telefon</b><br />0(332) 320 04 04<br />0(544) 233 01 77</p>
               </div>
               <br></br>
               <span>

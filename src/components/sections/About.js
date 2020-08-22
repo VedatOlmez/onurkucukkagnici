@@ -52,6 +52,10 @@ const About = () => (
               <p>
               Onur Küçükkağnıcı İstanbul Üniversitesi, Çapa Diş Hekimliği Fakültesi mezunudur. İmplant ve Estetik Diş Hekimliğinde binlerce vaka tedavi etmiştir. Yurtiçinde ve yurtdışında bir çok İmplant ve Estetik Hekimliği eğitimi almıştır.
               </p>
+              <br></br>
+              <p>
+              <p> <b>Randevu İçin</b> <a href="tel://+903128761343">0(332) 320 04 04</a></p>
+              </p>
             </div>
             <Art>
               <Img fluid={data.art_fast.childImageSharp.fluid} />
