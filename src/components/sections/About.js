@@ -54,7 +54,10 @@ const About = () => (
               </p>
               <br></br>
               <p>
-              <p> <b>Randevu İçin</b> <a href="tel://+903128761343">0(332) 320 04 04</a></p>
+              <p> <b>Randevu İçin</b> <a href="tel://+903323200404">0(332) 320 04 04</a>  
+              <br></br>
+              <a href="tel://+905442330177">0(544) 233 01 77</a>
+              </p>
               </p>
             </div>
             <Art>

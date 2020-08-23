@@ -38,14 +38,22 @@ const Footer = () => (
               <Copyright>
               <h2>İLETİŞİM</h2>
               <div>
-               <p><b>Adres&nbsp;</b><br />Yeni Meram Cad. No: 33A<br />Meram, Konya<br /><br /><b>Telefon</b><br />0(332) 320 04 04<br />0(544) 233 01 77</p>
+                <p>
+                  <b>Adres</b><br />
+                  <a href='https://g.page/dishekimikonya?share'>
+                  Yeni Meram Cad. No: 33A<br />Meram, Konya<br />
+                  </a>
+                  <br /><b>Telefon</b>
+                  <br /><a href="tel://+903323200404">0(332) 320 04 04</a><br />
+                  <a href="tel://+905442330177">0(544) 233 01 77</a>
+                </p>
               </div>
               <br></br>
               <span>
                 Web Tasarım - 
                 {` `}
                 <ExternalLink href="https://www.reklamvadisi.com/">
-                  <b>REKLAM VADİSİ</b>
+                  <b>Reklam Vadisi</b>
                 </ExternalLink>
               </span>
             </Copyright>
