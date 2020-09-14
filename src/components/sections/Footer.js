@@ -50,10 +50,10 @@ const Footer = () => (
               </div>
               <br></br>
               <span>
-                Web Tasarım - 
+                SEO Uzmanı - 
                 {` `}
-                <ExternalLink href="https://www.reklamvadisi.com/">
-                  <b>Reklam Vadisi</b>
+                <ExternalLink href="https://www.muratolmez.com.tr/">
+                  <b>Murat Ölmez</b>
                 </ExternalLink>
               </span>
             </Copyright>
