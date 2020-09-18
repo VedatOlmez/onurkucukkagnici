@@ -52,8 +52,8 @@ const Footer = () => (
               <span>
                 SEO Uzmanı - 
                 {` `}
-                <ExternalLink href="https://www.muratolmez.com.tr/">
-                  <b>Murat Ölmez</b>
+                <ExternalLink href="https://www.vedatolmez.com/">
+                  <b>Vedat Ölmez</b>
                 </ExternalLink>
               </span>
             </Copyright>
